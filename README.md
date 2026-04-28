@@ -8,7 +8,3 @@ Static one-page site. No build step.
 
 ## Local preview
 Open `index.html` directly in a browser, or serve the folder:
-
-```
-python -m http.server
-```
